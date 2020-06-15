@@ -1,0 +1,83 @@
+<html>
+<head>
+<style>
+title {text-align: center;}
+</style>
+<style>
+title {text-align: center;}
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+body {
+  background-color: olive;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+ul {
+  color: red;
+  text-align: center;
+}
+
+h1{
+  color: black;
+  text-align: center;
+}
+
+h2{
+  color: black;
+  text-align: center;
+}
+
+body {
+ background-color: #1c86bf;
+}
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+h2{
+  color: black;
+  text-align: center;
+}
+
+h3{
+  color: black;
+  text-align: center;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+video{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+a{
+text-align: center;
+width: 10%;
+clear: both;
+margin: auto;
+}
